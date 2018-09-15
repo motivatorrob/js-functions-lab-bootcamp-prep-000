@@ -1,3 +1,4 @@
 // write your code below!
-function happyHolidays()
-  happyHolidays ()
+function happyHolidays() {
+  retun `Happy Holidays!`
+}
